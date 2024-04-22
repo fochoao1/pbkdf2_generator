@@ -6,9 +6,9 @@ PBKDF2 Hash Generator. Run without arguments so the Password does not show.
 
 options:
 
-  -h, --help            show this help message and exit
+	-h, --help            show this help message and exit
   
-  -p PASSWORD, --password PASSWORD
+	-p PASSWORD, --password PASSWORD
                         Password to hash
                         
 Type the password:
