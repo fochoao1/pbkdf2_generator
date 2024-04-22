@@ -1,14 +1,14 @@
-.\pbkdf2_gen.py
+	.\pbkdf2_gen.py
 
-usage: pbkdf2_gen.py [-h] [-p PASSWORD]
+	usage: pbkdf2_gen.py [-h] [-p PASSWORD]
 
-PBKDF2 Hash Generator. Run without arguments so the Password does not show.
+	PBKDF2 Hash Generator. Run without arguments so the Password does not show.
 
-options:
+	options:
 
 	-h, --help            show this help message and exit
   
 	-p PASSWORD, --password PASSWORD
                         Password to hash
                         
-Type the password:
+	Type the password:
